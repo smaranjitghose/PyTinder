@@ -19,7 +19,7 @@ An effort to automate Tinder and dynamically increasing on the features
 - Install Selenium
 
 Open the terminal and write:
-  ```pip install selenium``
+  ```pip install selenium```
   
 # Further Addons:
 
